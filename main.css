@@ -1,0 +1,50 @@
+body{
+    background: #16000099;
+    margin: 0;
+    border: 2cm;
+   
+}
+h1{
+    color: white;
+}
+
+p{
+    background: black;
+    color: white;
+    padding: 30px  ;
+}
+.one{
+    background: blue;
+    color: black;
+}
+nav h1{
+   
+    display: inline;
+}
+nav ul li{
+    color: white;
+    background: black;
+    display: inline-block;
+    list-style-type: disc;
+    border: 5cm;
+    margin: 1cm;
+    width: 5%;
+    border-radius: 50%;
+   
+
+
+
+
+}
+nav ul li a{
+    color: white;
+}
+.row{
+
+}
+.col{
+    float: left;
+}
+footer{
+    clear: both;
+}
